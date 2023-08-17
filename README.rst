@@ -2,6 +2,7 @@ Conan
 =====
 
 A distributed, open-source, C/C++ package manager.
+Default branch changed to 1.9.3 and not the stupid 2.0 release. Why they broke something that worked great is beyond me. But here we are.
 
 +------------------------+-------------------------+
 | **master**             | **develop**             |
